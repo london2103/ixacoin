@@ -9,3 +9,6 @@ Ovo je drugi link, slican
 https://bitcointalk.org/index.php?topic=225690.0
 
 Proba sa eclipsa
+ovo je proslo
+
+Sada 2 commit
