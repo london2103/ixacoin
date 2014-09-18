@@ -7,3 +7,5 @@ Ovo je link koji treba pratiti
 Ovo je drugi link, slican
 
 https://bitcointalk.org/index.php?topic=225690.0
+
+Proba sa eclipsa
