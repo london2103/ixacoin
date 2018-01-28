@@ -12,3 +12,4 @@ Proba sa eclipsa
 ovo je proslo
 
 Sada 2 commit
+proveri bitbucket
